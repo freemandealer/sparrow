@@ -1,7 +1,7 @@
 /*
  * sparrow_dev.c
  *
- * A demonstation driver using Module in Linux kernel
+ * A demonstration driver using Module in Linux kernel
  *
  * Author: wowo<www.wowotech.net>
  *
